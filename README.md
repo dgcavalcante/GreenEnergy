@@ -15,3 +15,19 @@ Um sistema acessível e prático para monitoramento de consumo energético em re
 - Impactos ambientais negativos
 
 Este projeto visa oferecer uma solução inteligente e intuitiva para acompanhar o consumo em tempo real, ajudando os usuários a tomarem decisões conscientes e sustentáveis sobre o uso de energia.
+
+---
+
+## 👥 Equipe
+
+- Gabriel Henrique (Product Owner (P.O.))
+- Diogo Felipe (Desenvolvedor)
+- Leandro Manuel (Desenvolvedor)
+- Jõao pedro (Desenvolvedor)
+- Sérgio Gonçalves (Desenvolvedor)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Em breve...
