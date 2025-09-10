@@ -1,5 +1,3 @@
-# Entrega1
-
 # ⚡ Green Energy
 
 Um sistema acessível e prático para monitoramento de consumo energético em residências e pequenas empresas, promovendo economia e sustentabilidade.
