@@ -1,6 +1,6 @@
 # ⚡ Green Energy
 
-Um sistema acessível e prático para monitoramento de consumo energético em residências e pequenas empresas, promovendo economia e sustentabilidade.
+Um sistema acessível e prático para monitoramento de consumo energético em residências e pequenas empresas, promovendo economia e sustentabilidade. Buscamos diminuir custos, reduzir desperdícios e contribuir para a eficiência energética, alinhados à Meta 7.3 dos Objetivos de Desenvolvimento Sustentável da ONU.
 
 ---
 
