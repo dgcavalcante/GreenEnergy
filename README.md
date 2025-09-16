@@ -32,6 +32,14 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 ---
 
+## 🗂️ Organização do Projeto
+
+Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acompanhar o progresso do projeto.  
+
+![Trello](https://imgur.com/a/a7enDO3)
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Em breve...
