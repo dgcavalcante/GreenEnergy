@@ -16,6 +16,12 @@ Este projeto visa oferecer uma solução inteligente e intuitiva para acompanhar
 
 ---
 
+## 🚀 Nossa missão
+
+Nossa missão é tornar o monitoramento e a gestão de consumo de energia acessíveis e eficientes para residências e pequenas empresas. Através de um aplicativo integrado a dispositivos IoT: Adaptadores inteligentes e interruptores conectados. Oferecemos uma solução prática que permite acompanhar, controlar e reduzir o uso de energia em eletrodomésticos e cômodos. Assim, buscamos diminuir custos, reduzir desperdícios e construir para a eficiência energética.
+
+---
+
 ## 👥 Equipe
 
 - Gabriel Henrique (Product Owner (P.O.))
