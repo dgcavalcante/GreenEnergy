@@ -26,9 +26,9 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 - Gabriel Henrique (Product Owner)
 - Diogo Felipe (Desenvolvedor)
+- Jõao pedro (Banco de Dados)
 - Leandro Manuel (Desenvolvedor)
 - Sérgio Gonçalves (Desenvolvedor)
-- Jõao pedro (Banco de Dados)
 
 ---
 
@@ -43,3 +43,44 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
 ## 🛠️ Tecnologias Utilizadas
 
 - Em breve...
+
+## Contribuidores
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GabrielHen-dev">
+        <img src="https://avatars.githubusercontent.com/u/113862540?v=4" width="100" style="border-radius: 50%;" alt="Foto de Gabriel Henrique"/>
+        <br />
+        <sub><b>Gabriel Henrique</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dgcavalcante">
+        <img src="https://avatars.githubusercontent.com/u/210120655?v=4" width="100" style="border-radius: 50%;" alt="Foto de Diogo Cavalcante"/>
+        <br />
+        <sub><b>Diogo Cavalcante</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/devkappiushon">
+        <img src="https://avatars.githubusercontent.com/u/167872771?v=4" width="100" style="border-radius: 50%;" alt="Foto de João Pedro"/>
+        <br />
+        <sub><b>João Pedro</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/novo1">
+        <img src="https://avatars.githubusercontent.com/u/203052590?v=4" width="100" style="border-radius: 50%;" alt="Foto do Novo1"/>
+        <br />
+        <sub><b>Sergio Gonçalves</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/novo2">
+        <img src="https://avatars.githubusercontent.com/u/95945268?v=4" width="100" style="border-radius: 50%;" alt="Foto do Novo2"/>
+        <br />
+        <sub><b>Leandro Manoel</b></sub>
+      </a>
+  </tr>
+</table>
+
