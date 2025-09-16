@@ -36,7 +36,7 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acompanhar o progresso do projeto.  
 
-![Trello](https://imgur.com/a/a7enDO3)
+<img width="1865" height="857" alt="image" src="https://github.com/user-attachments/assets/9571e871-18ea-44a4-844a-83f6c0fe91cf" />
 
 ---
 
