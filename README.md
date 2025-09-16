@@ -24,7 +24,7 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 ## 👥 Equipe
 
-- Gabriel Henrique (Product Owner (P.O.))
+- Gabriel Henrique (Product Owner)
 - Diogo Felipe (Desenvolvedor)
 - Leandro Manuel (Desenvolvedor)
 - Sérgio Gonçalves (Desenvolvedor)
