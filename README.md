@@ -1,4 +1,4 @@
-# ⚡ Green Energy
+# ⚡ EcoHub
 
 Um sistema acessível e prático para monitoramento de consumo energético em residências e pequenas empresas, promovendo economia e sustentabilidade. Buscamos diminuir custos, reduzir desperdícios e contribuir para a eficiência energética, alinhados à Meta 7.3 dos Objetivos de Desenvolvimento Sustentável da ONU.
 
@@ -6,7 +6,7 @@ Um sistema acessível e prático para monitoramento de consumo energético em re
 
 ## 📚 Descrição
 
-**Green Energy** surge como resposta à problemática da **falta de monitoramento acessível e prático do consumo energético** em ambientes residenciais e pequenos negócios. Essa deficiência contribui para:
+**EcoHub** surge como resposta à problemática da **falta de monitoramento acessível e prático do consumo energético** em ambientes residenciais e pequenos negócios. Essa deficiência contribui para:
 
 - Desperdício de energia elétrica
 - Aumento nos custos mensais
@@ -26,7 +26,7 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 - Gabriel Henrique (Product Owner)
 - Diogo Felipe (Desenvolvedor)
-- Jõao pedro (Banco de Dados)
+- Jõao Pedro (Banco de Dados)
 - Leandro Manuel (Desenvolvedor)
 - Sérgio Gonçalves (Desenvolvedor)
 
@@ -36,7 +36,7 @@ Nossa missão é tornar o monitoramento e a gestão de consumo de energia acess�
 
 Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acompanhar o progresso do projeto.  
 
-<img width="1865" height="857" alt="image" src="https://github.com/user-attachments/assets/9571e871-18ea-44a4-844a-83f6c0fe91cf" />
+<img width="1873" height="900" alt="image" src="https://github.com/user-attachments/assets/ade70e2e-4533-4348-8cc1-3355280f2ff1" />
 
 ---
 
@@ -79,7 +79,7 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
       <a href="https://github.com/novo2">
         <img src="https://avatars.githubusercontent.com/u/95945268?v=4" width="100" style="border-radius: 50%;" alt="Foto do Novo2"/>
         <br />
-        <sub><b>Leandro Manoel</b></sub>
+        <sub><b>Leandro Manuel</b></sub>
       </a>
   </tr>
 </table>
