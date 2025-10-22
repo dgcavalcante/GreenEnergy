@@ -60,7 +60,7 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
 ### Link do Figma
 Você pode acessar o protótipo completo no Figma através do seguinte link:
 
-[**Acessar Protótipo no Figma**]([https://www.figma.com/link-do-seu-prototipo](https://www.figma.com/design/aJ10sPGKafrViVkfAIwMDZ/EcoHub?node-id=5-14&t=Jq77tfgc0Vk27t1z-0))
+[**Acessar Protótipo no Figma**](https://www.figma.com/design/aJ10sPGKafrViVkfAIwMDZ/EcoHub?node-id=5-14&t=Jq77tfgc0Vk27t1z-0)
 ---
 ## 🛠️ Tecnologias Utilizadas
 
