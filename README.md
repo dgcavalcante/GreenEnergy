@@ -41,8 +41,9 @@ Com isso, buscamos **reduzir custos, minimizar desperdícios e promover a susten
 ## 🗂️ Organização do Projeto
 
 Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acompanhar o progresso do projeto.  
+<img width="1365" height="598" alt="Captura de tela 2025-10-22 202338" src="https://github.com/user-attachments/assets/577a4391-d31b-4c8a-a6ee-490bdef5293d" />
 
-<img width="1873" height="900" alt="image" src="https://github.com/user-attachments/assets/ade70e2e-4533-4348-8cc1-3355280f2ff1" />
+
 
 
 ## 📱 Protótipo do projeto
