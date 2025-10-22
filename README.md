@@ -43,34 +43,19 @@ Com isso, buscamos **reduzir custos, minimizar desperdícios e promover a susten
 Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acompanhar o progresso do projeto.  
 <img width="1365" height="598" alt="Captura de tela 2025-10-22 202338" src="https://github.com/user-attachments/assets/577a4391-d31b-4c8a-a6ee-490bdef5293d" />
 
-
-
-
 ## 📱 Protótipo do projeto
 
-<p align="center">
-  <img width="671" height="212" alt="Logo EcoHub (1)" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" />
-</p>
+### Logo 
+<img width="671" height="212" alt="Logo EcoHub (1)" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
 
-### Logo
+### Login 
+<img width="1920" height="1080" alt="Tela Login" src="https://github.com/user-attachments/assets/2171d893-04ef-4005-87d8-82a5838c6628" /> 
 
-<p align="center">
-  <img width="1920" height="1080" alt="Tela Login" src="https://github.com/user-attachments/assets/2171d893-04ef-4005-87d8-82a5838c6628" />
-</p>
+### Dashboard 
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/32ffe040-6c17-4408-a713-a054dff571cc" /> 
 
-### Login
-
-<p align="center">
-  <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/32ffe040-6c17-4408-a713-a054dff571cc" />
-</p>
-
-### Dashboard
-
-<p align="center">
-  <img width="1920" height="1080" alt="Gerenciar perfil" src="https://github.com/user-attachments/assets/3f3f850c-2d95-405e-8164-aec857545efa" />
-</p>
-
-### Gerenciamento de Perfil
+### Gerenciamento de Perfil 
+<img width="1920" height="1080" alt="Gerenciar perfil" src="https://github.com/user-attachments/assets/3f3f850c-2d95-405e-8164-aec857545efa" />
 
 ---
 ## 🛠️ Tecnologias Utilizadas
