@@ -53,6 +53,9 @@ Confira abaixo as Telas de Protótipo do **EcoHub**:
 ### Logo
 <img width="671" height="212" alt="Logo EcoHub (1)" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" />
 
+### Login
+<img width="1920" height="1080" alt="Tela Login" src="https://github.com/user-attachments/assets/2171d893-04ef-4005-87d8-82a5838c6628" />
+
 ### Dashboard
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/32ffe040-6c17-4408-a713-a054dff571cc" />
 
