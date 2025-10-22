@@ -47,7 +47,7 @@ Telas de Protótipo do Projeto
 <img width="1920" height="1080" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/12691f2f-437d-46ca-a0c9-4d33d844a01a" />
 
 ### Dashboard
-<img width="849" height="475" alt="Dashboard EcoHub" src="https://github.com/user-attachments/assets/bb2a3543-621a-41b4-b4f2-38fc1905252e" />
+<img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/32ffe040-6c17-4408-a713-a054dff571cc" />
 
 ### Gerenciamento de Perfil
 <img width="1920" height="1080" alt="Gerenciar perfil" src="https://github.com/user-attachments/assets/3f3f850c-2d95-405e-8164-aec857545efa" />
