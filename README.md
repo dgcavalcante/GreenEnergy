@@ -1,34 +1,40 @@
 # ⚡EcoHub
 
-Um sistema acessível e prático para monitoramento de consumo energético em residências e pequenas empresas, promovendo economia e sustentabilidade. Buscamos diminuir custos, reduzir desperdícios e contribuir para a eficiência energética, alinhados à Meta 7.3 dos Objetivos de Desenvolvimento Sustentável da ONU.
+O **EcoHub** é um sistema inovador e fácil de usar, projetado para monitorar o consumo energético em residências e pequenas empresas. Nosso objetivo é promover a economia de energia e a sustentabilidade, ajudando a reduzir custos, desperdícios e contribuir para a eficiência energética — alinhados à **Meta 7.3** dos **Objetivos de Desenvolvimento Sustentável (ODS)** da ONU.
 
 ---
 
 ## 📚 Descrição
 
-**EcoHub** surge como resposta à problemática da **falta de monitoramento acessível e prático do consumo energético** em ambientes residenciais e pequenos negócios. Essa deficiência contribui para:
+O **EcoHub** surge como uma solução para o problema da **falta de ferramentas acessíveis e eficientes para monitorar o consumo de energia** em ambientes residenciais e de pequenos negócios.  
+A ausência de monitoramento adequado leva a:
 
-- Desperdício de energia elétrica
-- Aumento nos custos mensais
-- Impactos ambientais negativos
+- Desperdício de energia elétrica  
+- Aumento nos custos mensais  
+- Impactos ambientais prejudiciais  
 
-Este projeto visa oferecer uma solução inteligente e intuitiva para acompanhar o consumo em tempo real, ajudando os usuários a tomarem decisões conscientes e sustentáveis sobre o uso de energia.
+Nosso sistema foi criado para resolver esses desafios, oferecendo uma plataforma **intuitiva e inteligente** que permite aos usuários monitorar o consumo de energia **em tempo real**.  
+Assim, buscamos incentivar decisões mais conscientes e sustentáveis sobre o uso de energia.
 
 ---
 
 ## 🚀 Nossa missão
 
-Nossa missão é tornar o monitoramento e a gestão de consumo de energia acessíveis e eficientes para residências e pequenas empresas. Através de um aplicativo integrado a dispositivos IoT: Adaptadores inteligentes e interruptores conectados. Oferecemos uma solução prática que permite acompanhar, controlar e reduzir o uso de energia em eletrodomésticos e cômodos. Assim, buscamos diminuir custos, reduzir desperdícios e construir para a eficiência energética.
+Nossa missão é tornar o monitoramento e a gestão do consumo de energia **acessíveis e eficientes** para residências e pequenas empresas.  
+Por meio de um aplicativo integrado a **dispositivos IoT** — como adaptadores e interruptores inteligentes — oferecemos uma solução prática que permite **acompanhar, controlar e otimizar** o uso de energia em eletrodomésticos e ambientes.  
+
+Com isso, buscamos **reduzir custos, minimizar desperdícios e promover a sustentabilidade energética**.
+
 
 ---
 
 ## 👥 Equipe
 
-- Gabriel Henrique (Product Owner)
-- Diogo Felipe (Desenvolvedor)
-- Jõao Pedro (Banco de Dados)
-- Leandro Manuel (Desenvolvedor)
-- Sérgio Gonçalves (Desenvolvedor)
+- **Gabriel Henrique** — Product Owner  
+- **Diogo Felipe** — Desenvolvedor  
+- **João Pedro** — Banco de Dados  
+- **Leandro Manuel** — Desenvolvedor  
+- **Sérgio Gonçalves** — Desenvolvedor 
 
 ---
 
@@ -41,21 +47,16 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
 
 ## 📱 Protótipo do projeto
 
-Telas de Protótipo do Projeto
+Confira abaixo as Telas de Protótipo do **EcoHub**:
 
 ### Logo
-<img width="1920" height="1080" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/12691f2f-437d-46ca-a0c9-4d33d844a01a" />
+<img width="671" height="212" alt="Logo EcoHub (1)" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" />
 
 ### Dashboard
 <img width="1920" height="1080" alt="Home" src="https://github.com/user-attachments/assets/32ffe040-6c17-4408-a713-a054dff571cc" />
 
 ### Gerenciamento de Perfil
 <img width="1920" height="1080" alt="Gerenciar perfil" src="https://github.com/user-attachments/assets/3f3f850c-2d95-405e-8164-aec857545efa" />
-
-
-
-
-
 
 ---
 ## 🛠️ Tecnologias Utilizadas
