@@ -52,6 +52,9 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
 
 ## 📱 Protótipo do projeto
 
+### Demonstração das Telas
+https://github.com/user-attachments/assets/31d451a7-5767-4b52-8095-1ff2d241bd8a
+
 ### Login 
 <img width="1920" height="1080" alt="Tela Login" src="https://github.com/user-attachments/assets/2171d893-04ef-4005-87d8-82a5838c6628" /> 
 
