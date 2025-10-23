@@ -1,5 +1,12 @@
 ### EcoHub 
-<img width="330" height="200" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a"
+       alt="Logo EcoHub"
+       width="330" height="200"
+       style="margin-right: 15px;">
+  <h1>EcoHub</h1>
+</div>
+
 
 # ⚡EcoHub
 
