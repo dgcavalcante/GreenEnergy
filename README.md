@@ -1,9 +1,9 @@
+### EcoHub 
+<img width="330" height="200" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
+
 # ⚡EcoHub
 
 O **EcoHub** é um sistema inovador e fácil de usar, projetado para monitorar o consumo energético em residências e pequenas empresas. Nosso objetivo é promover a economia de energia e a sustentabilidade, ajudando a reduzir custos, desperdícios e contribuir para a eficiência energética — alinhados à **Meta 7.3** dos **Objetivos de Desenvolvimento Sustentável (ODS)** da ONU.
-
-### Logo 
-<img width="330" height="200" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
 
 ---
 
