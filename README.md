@@ -2,6 +2,9 @@
 
 O **EcoHub** é um sistema inovador e fácil de usar, projetado para monitorar o consumo energético em residências e pequenas empresas. Nosso objetivo é promover a economia de energia e a sustentabilidade, ajudando a reduzir custos, desperdícios e contribuir para a eficiência energética — alinhados à **Meta 7.3** dos **Objetivos de Desenvolvimento Sustentável (ODS)** da ONU.
 
+### Logo 
+<img width="330" height="200" alt="Logo EcoHub" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
+
 ---
 
 ## 📚 Descrição
@@ -44,9 +47,6 @@ Nosso time utiliza o [Trello](https://trello.com/) para gerenciar tarefas e acom
 <img width="1365" height="598" alt="Captura de tela 2025-10-22 202338" src="https://github.com/user-attachments/assets/577a4391-d31b-4c8a-a6ee-490bdef5293d" />
 
 ## 📱 Protótipo do projeto
-
-### Logo 
-<img width="671" height="212" alt="Logo EcoHub (1)" src="https://github.com/user-attachments/assets/722d3988-1a59-4cf4-83e4-c113d25e364a" /> 
 
 ### Login 
 <img width="1920" height="1080" alt="Tela Login" src="https://github.com/user-attachments/assets/2171d893-04ef-4005-87d8-82a5838c6628" /> 
